@@ -11,7 +11,7 @@ I'm a fourth year student, and casual academic at the **University of New South 
 - **Hand Gesture Robot**: Created an automated robot capable of moving via registered hand movements. 🤖
 - **Sudoku Solver**: Simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
 
-Feel free to reach out via LinkedIn ✨
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nathansivalingam) ✨
 
 <!--
 **nathansivalingam/nathansivalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
