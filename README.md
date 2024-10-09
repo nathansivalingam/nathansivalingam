@@ -2,7 +2,7 @@
 
 I'm a fourth year student, and casual academic at the **University of New South Wales**. I'm currently working on code to further my understanding of course content covered throughout my degree thus far. I'm currently learning **html**, **css**, **javascript** and **MATLAB**. All of which are relevant to my degree and/or additional side projects that I am completing in my own time.
 
-
+Feel free to reach out via LinkedIn :phone
 <!--
 **nathansivalingam/nathansivalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
