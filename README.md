@@ -5,7 +5,7 @@ I'm a fourth year student, and casual academic at the **UNSW Sydney**. I'm curre
 ### Developing Projects
 - **Personal Website**: I am attempting to convert my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
 - **Data Structures and Algorithms**: I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
-- **Educational Tools**: I am working to develop some software to improve the learning process (private). 📚
+- **Educational Tools**: I am working to develop some software to improve the tertiary education process (private). 📚
 
 ### Developed Projects
 - **Hand Gesture Robot**: Created an automated robot capable of moving via registered hand movements. 🤖
