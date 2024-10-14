@@ -13,7 +13,7 @@ I'm a fourth year student, and casual academic at the **UNSW Sydney**. I'm curre
 
 Feel free to reach out via [LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✨
 
-![Alt text](file:///G:/My%20Drive/University/Other/Internship/nathan_sivalingam_resume.pdf)
+
 
 <!--
 **nathansivalingam/nathansivalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
