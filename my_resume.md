@@ -5,12 +5,10 @@ Phone Number: 0412 972 668 <br />
 Email Address: nathansivalingampersonal@gmail.com <br />
 
 ## Education
-**Tertiary Education:**
 University of New South Wales <br />
 Feb 2021 - Present <br />
 Bachelor of Engineering (Honours) and Bachelor of Science (Computer Science) (BE (Hons) BSc) <br />
 
-**Secondary Education:**
 Crestwood High School <br />
 Jan 2015 - Dec 2020 <br />
 
