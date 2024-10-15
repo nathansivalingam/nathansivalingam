@@ -9,7 +9,7 @@ I'm a fourth year student, and casual academic at the **UNSW Sydney**. I'm curre
 
 ### Developed Projects
 - [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot): Created an automated robot capable of moving via registered hand movements. ⚙️
-- [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver): Simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
+- [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver): Coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
 
 Feel free to check out my resume [Resume](my_resume.md) 🚀
   or reach out via [LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✨
