@@ -1,6 +1,5 @@
 # Nathan Sivalingam
-### Mechanical Engineering and Computer Science Student
-
+_Mechanical Engineering and Computer Science Student_
 ## Contact
 Phone Number: 0412 972 668 <br />
 Email Address: nathansivalingampersonal@gmail.com <br />
