@@ -1,7 +1,7 @@
 # Nathan Sivalingam
 _Mechanical Engineering and Computer Science Student at UNSW Sydney_
 ## Contact
-Phone Number: 0412 972 668 <br />
+Phone Number: +61 412 972 668 <br />
 Email Address: nathansivalingampersonal@gmail.com <br />
 
 ## Education
