@@ -2,14 +2,14 @@
 
 I'm a fourth year student, and casual academic at the **UNSW Sydney**. I'm currently working furthering my understanding of course content covered throughout my degree thus far. I'm currently learning **html**, **css**, **javascript**, **React** and **MATLAB**. All of which are relevant to my tertiary education and/or additional side projects that I am completing in my own time. 
 
-### Developing Projects
-- [Personal Website](https://nathan-personal-website.vercel.app/): I am attempting to convert my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
-- [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms): I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
-- Educational Tools: I am working to develop some software to improve the tertiary education process (private). 📚
-
 ### Developed Projects
+- [Personal Website](https://nathan-personal-website.vercel.app/): I am attempting to convert my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
 - [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot): Created an automated robot capable of moving via registered hand movements. ⚙️
 - [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver): Coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
+
+### Developing Projects
+- [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms): I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
+- Educational Tools: I am working to develop some software to improve the tertiary education process (private). 📚
 
 Feel free to check out my [Resume](nathan_sivalingam_resume.pdf) 🚀
   or reach out via [LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✨
