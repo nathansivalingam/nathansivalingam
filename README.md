@@ -3,12 +3,12 @@
 I'm a fourth year student, and casual academic at the **UNSW Sydney**. I'm currently working furthering my understanding of course content covered throughout my degree thus far. I'm currently learning **html**, **css**, **javascript**, **React** and **MATLAB**. All of which are relevant to my tertiary education and/or additional side projects that I am completing in my own time. 
 
 ### Developed Projects
-- [Personal Website](https://nathan-personal-website.vercel.app/): I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
-- [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot): I created an automated robot capable of moving via registered hand movements. ⚙️
-- [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver): I coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
+- [Personal Website](https://nathan-personal-website.vercel.app/) &#8594; I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
+- [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot) &#8594; I created an automated robot capable of moving via registered hand movements. ⚙️
+- [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver) &#8594; I coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
 
 ### Developing Projects
-- [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms): I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
+- [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms) &#8594; I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
 - Educational Tools: I am working to develop some software to improve the tertiary education process (private). 📚
 
 Feel free to check out my [Resume](nathan_sivalingam_resume.pdf) 🚀
