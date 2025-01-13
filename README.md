@@ -9,7 +9,7 @@ I'm a fourth year student, and casual academic at the **UNSW Sydney**. I'm curre
 
 ### Developing Projects
 - [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms) &#8594; I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
-- Educational Tools: I am working to develop some software to improve the tertiary education process (private). 📚
+- Educational Tools &#8594; I am working to develop some software to improve the tertiary education process (private). 📚
 
 Feel free to check out my [Resume](nathan_sivalingam_resume.pdf) 🚀
   or reach out via [LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✨
