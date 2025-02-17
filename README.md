@@ -10,7 +10,7 @@ I'm a casual academic and fifth-year student studying computer science and mecha
 ### Developing Projects
 - [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms) &#8594; I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
 - Educational Tools &#8594; I'm creating public repositories with interactive formulas. It helps students check their solutions to complex problems and find mistakes quickly, thanks to a step-by-step guide. Public repositories are available for the following UNSW taught courses 📚
-  - [Mechanics of Solids 2](https://github.com/nathansivalingam/mechanics-of-solids-2-demo) (MMAN3400)
+  - [Mechanics of Solids 2](https://github.com/nathansivalingam/mechanics-of-solids-2-demo) &#8594; (MMAN3400)
   - [Space Systems Architecture](https://github.com/nathansivalingam/space-systems-architecture-matlab) &#8594; (AERO9500)
 
 Feel free to check out my [Resume](nathan_sivalingam_resume.pdf) 🚀
