@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a casual academic and fifth-year student studying computer science and mechanical engineering at **UNSW Sydney**. I'm currently about to embark on my thesis journey where I will be [investigating the enhancement of photovoltaic modules through improvements made to natural and forced convection](https://github.com/nathansivalingam/mechanical-engineering-thesis-a). I'm also honing my **html**, **css**, **javascript**, **React** and **MATLAB** skills. All of which are relevant to my tertiary education and/or additional side projects that I am completing in my own time. 
+I'm a casual academic and fifth-year student studying computer science and mechanical engineering at **UNSW Sydney**. I'm currently about to embark on my [thesis journey](https://github.com/nathansivalingam/mechanical-engineering-thesis-a) where I will be investigating the enhancement of photovoltaic modules through improvements made to natural and forced convection. I'm also honing my **html**, **css**, **javascript**, **React** and **MATLAB** skills. All of which are relevant to my tertiary education and/or additional side projects that I am completing in my own time. 
 
 ### Developed Projects
 - [Personal Website](https://nathan-personal-website.vercel.app/) &#8594; I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
