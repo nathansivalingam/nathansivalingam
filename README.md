@@ -13,7 +13,7 @@ I'm a casual academic and fifth-year student studying computer science and mecha
   - [Mechanics of Solids 2](https://github.com/nathansivalingam/mechanics-of-solids-2-demo) &#8594; (MMAN3400) 🍎
   - [Space Systems Architecture](https://github.com/nathansivalingam/space-systems-architecture-matlab) &#8594; (AERO9500) 🚀
 
-Feel free to check out my [Resume](nathan_sivalingam_resume.pdf) 📝
+Feel free to check out my [Resume](nathan_sivalingam_resume.pdf) ✏️
   or reach out via [LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✨
 
 <!--
