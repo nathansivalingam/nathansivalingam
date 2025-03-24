@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a casual academic and fifth-year student studying computer science and mechanical engineering at **UNSW Sydney**. I'm currently about to embark on my [thesis journey](https://github.com/nathansivalingam/mechanical-engineering-thesis-a) where I will be investigating the enhancement of photovoltaic modules through improvements made to natural and forced convection. I'm also honing my **html**, **css**, **javascript**, **React** and **MATLAB** skills. All of which are relevant to my tertiary education and/or additional side projects that I am completing in my own time. 
+I'm a casual academic and fifth-year student studying computer science and mechanical engineering at **UNSW Sydney**. Right now, the majority of my contributions are related to my thesis project where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
 
 ### Developed Projects
 - [Personal Website](https://nathan-personal-website.vercel.app/) &#8594; I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
@@ -8,6 +8,7 @@ I'm a casual academic and fifth-year student studying computer science and mecha
 - [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver) &#8594; I coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
 
 ### Developing Projects
+- [Undergraduate Thesis](https://github.com/nathansivalingam/mechanical-engineering-thesis-a) &#8594; I'm currently investigating the enhancement of photovoltaic modules through improvements made to natural and forced convection. ☀️
 - [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms) &#8594; I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
 - Educational Tools &#8594; I am creating public repositories with interactive formulae. These repos are designed to help students check their solutions to complex problems and find mistakes quickly, thanks to a step-by-step guide. Public repositories are available for the following UNSW taught courses 📚
   - [Mechanics of Solids 2](https://github.com/nathansivalingam/mechanics-of-solids-2-demo) &#8594; (MMAN3400) 🍎
