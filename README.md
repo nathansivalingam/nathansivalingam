@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a casual academic and fifth-year student studying computer science and mechanical engineering at **UNSW Sydney**. Right now, the majority of my contributions are related to my thesis project where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
+I'm a casual academic and final-year student studying computer science and mechanical engineering at **UNSW Sydney**. Right now, the majority of my contributions are related to my thesis project where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
 
 ### Developed Projects
 - [Personal Website](https://nathan-personal-website.vercel.app/) &#8594; I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
