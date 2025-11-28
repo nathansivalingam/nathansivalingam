@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a casual academic and final-year student studying computer science and mechanical engineering at **UNSW Sydney**. Right now, the majority of my contributions are related to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c) where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
+I'm a casual academic and final-year student studying computer science and mechanical engineering at **UNSW Sydney**. Recently, the majority of my contributions are related to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c) where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
 
 ### Developed Projects
 - [Park Pilot](https://github.com/unsw-cse-comp99-3900/capstone-project-25t3-3900-f11a-date) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
