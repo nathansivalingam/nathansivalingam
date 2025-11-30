@@ -15,7 +15,7 @@ I'm a casual academic and final-year student studying computer science and mecha
 - I'm currently investigating the enhancement of photovoltaic modules through improvements made to natural and forced convection. ☀️
 - [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms) &#8594; I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
 
-Feel free to check out my [Resume](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✏️
+Feel free to check out my [Resume](https://github.com/nathansivalingam/nathansivalingam/blob/main/nathan_sivalingam_resume.pdf) ✏️
   or reach out via [LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227?trk=public_profile_browsemap) ✨
 
 <!--
