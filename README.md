@@ -1,9 +1,9 @@
 ## Hey there 👋
 
-I'm a casual academic and final-year student studying computer science and mechanical engineering at **UNSW Sydney**. Recently, the majority of my contributions are related to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c) where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
+I'm a casual academic and final-year student studying computer science and mechanical engineering at **UNSW Sydney**. Recently, the majority of my contributions are related to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c/blob/main/z5359644_thesis_c.pdf) where I am working to test vortex generators as a method of cooling photovoltaic modules. 🌱
 
 ### Developed Projects
-- [Park Pilot](https://github.com/nathansivalingam/mechanical-engineering-thesis-c/blob/main/z5359644_thesis_c.pdf) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
+- [Park Pilot](https://github.com/unsw-cse-comp99-3900/capstone-project-25t3-3900-f11a-date) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
 - [Personal Website](https://nathan-personal-website.vercel.app/) &#8594; I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
 - [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot) &#8594; I created an automated robot capable of moving via registered hand movements. ⚙️
 - [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver) &#8594; I coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
