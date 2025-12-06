@@ -12,7 +12,7 @@ I'm a casual academic and final-year student studying computer science and mecha
   - [Space Systems Architecture](https://github.com/nathansivalingam/space-systems-architecture-matlab) &#8594; (AERO9500) 🚀
 
 ### Developing Projects
-- As a Research Assistant, I am developing augmented-reality models to enhance the teaching of mechanical design concepts to university students and collaborate with JigSpace employees to refine the functionality of the software used for model development. 🧊
+- As a Research Assistant, I am developing augmented-reality models to improve the teaching of mechanical design concepts and collaborate with JigSpace employees to refine the software used for model development. 🧊
 - [Data Structures and Algorithms](https://github.com/nathansivalingam/sorting-algorithms) &#8594; I am currently working through the various search algorithms and relevant data structures to further my understanding of the concepts learnt in COMP2521 at UNSW. 🔎
 
 Feel free to check out my [Resume](https://github.com/nathansivalingam/nathansivalingam/blob/main/nathan_sivalingam_resume.pdf) ✏️
