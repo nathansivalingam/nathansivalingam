@@ -4,6 +4,7 @@ I'm a casual academic and final-year student studying computer science and mecha
 
 ### Developing Projects
 - As a Research Assistant, I am developing augmented-reality models to improve the teaching of mechanical design concepts and collaborate with JigSpace employees to refine the software used for model development. 🧊
+- I am developing a engineering portfolio in the form of a website for both my computer science and mechanical engineering projects to aid in the internship application process. ⚛️
 
 ### Developed Projects
 - [Park Pilot](https://github.com/unsw-cse-comp99-3900/capstone-project-25t3-3900-f11a-date) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
