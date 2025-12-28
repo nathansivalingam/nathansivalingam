@@ -7,7 +7,7 @@ I'm a casual academic and final-year student studying computer science and mecha
 - [Engineering Portfolio](https://engineering-portfolio-website.vercel.app/) &#8594; I am developing a engineering portfolio in the form of a website for both my computer science and mechanical engineering projects to aid in the internship application process. ⚛️
 
 ### Developed Projects
-- [Park Pilot](https://github.com/unsw-cse-comp99-3900/capstone-project-25t3-3900-f11a-date) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
+- [Park Pilot](https://github.com/nathansivalingam/park-pilot) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
 - [Personal Website](https://nathan-personal-website.vercel.app/) &#8594; I converted my resume into a personal website using the skills learnt in COMP6080 at UNSW. 💻
 - [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot) &#8594; I worked in a team to create an automated robot capable of moving via registered hand movements. ⚙️
 - [Sudoku Solver](https://github.com/nathansivalingam/sudoku-solver) &#8594; I coded a simple program that uses a BFS algorithm to solve sudoku puzzles of all sizes. 🧩
