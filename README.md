@@ -7,9 +7,9 @@ I am a casual academic and final-year student studying Computer Science and Mech
 - As an Academic Demonstrator for the School of Mechanical and Manufacturing Engineering at UNSW, I guide students through individual and group engineering tasks, deliver live problem-solving demonstrations, and respond to technical and non-technical questions on course forums. ✍️
 
 ### Developed Projects
-- [Park Pilot](https://github.com/nathansivalingam/park-pilot) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚗
+- [Park Pilot](https://github.com/nathansivalingam/park-pilot) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚙
 - [Engineering Portfolio](https://engineering-portfolio-website.vercel.app/) &#8594; I developed an engineering portfolio in the form of a website for both my computer science and mechanical engineering projects to aid in the internship application process. 💻
-- [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot) &#8594; I worked in a team to create an automated robot capable of moving via registered hand movements. ⚙️
+- [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot) &#8594; I worked in a team to create an automated robot capable of moving via registered hand movements. 🦾
 - As an Academic Demonstrator, I created public repositories with interactive formulae. These repos are designed to help students check their solutions to complex problems and find mistakes quickly, thanks to a step-by-step guide. Public repositories are available for the following UNSW taught courses 📚
   - [Mechanics of Solids 2](https://github.com/nathansivalingam/mechanics-of-solids-2-demo) &#8594; (MMAN3400) 🍎
   - [Space Systems Architecture](https://github.com/nathansivalingam/space-systems-architecture-matlab) &#8594; (AERO9500) 🚀
