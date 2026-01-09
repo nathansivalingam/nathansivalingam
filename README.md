@@ -3,7 +3,7 @@
 I am a casual academic and final-year student studying Computer Science and Mechanical Engineering at **UNSW Sydney**. Most of my recent contributions relate to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c/blob/main/z5359644_thesis_c.pdf?raw=true), where I am investigating the use of vortex generators as a method of cooling photovoltaic modules. 🌱
 
 ### Developing Projects
-- As a Research Assistant, I develop models for augmented reality applications aimed at enhancing the teaching of mechanical design concepts to university students. 🧊
+- As a Research Assistant, I develop models for augmented reality applications aimed at enhancing the teaching of mechanical design concepts to university students. 🌏
 - As an Academic Demonstrator for the School of Mechanical and Manufacturing Engineering at UNSW, I guide students through individual and group engineering tasks, deliver live problem-solving demonstrations, and respond to technical and non-technical questions on course forums. ✍️
 
 ### Developed Projects
