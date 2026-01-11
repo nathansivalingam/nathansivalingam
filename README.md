@@ -5,7 +5,7 @@ I am a casual academic and final-year student studying Computer Science and Mech
 ### Developing Projects
 - As a Research Assistant, I develop models for augmented reality applications aimed at enhancing the teaching of mechanical design concepts to university students. 🌏
 - As an Academic Demonstrator for the School of Mechanical and Manufacturing Engineering at UNSW, I guide students through individual and group engineering tasks, deliver live problem-solving demonstrations, and respond to technical and non-technical questions on course forums. ✍️
-- I am creating a [cover letter builder](https://cover-letter-builder-2pc6.vercel.app/?raw=true) to aid in the job application process while expanding my knowledge on how to effectively use LLMs.
+- I am creating a [cover letter builder](https://cover-letter-builder-2pc6.vercel.app/) to aid in the job application process while expanding my knowledge on how to effectively use LLMs.
 
 ### Developed Projects
 - [Park Pilot](https://github.com/nathansivalingam/park-pilot) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚙
