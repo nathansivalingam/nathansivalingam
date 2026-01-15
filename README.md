@@ -7,7 +7,7 @@ I am a casual academic and final-year student studying Computer Science and Mech
 - As an Academic Demonstrator for the School of Mechanical and Manufacturing Engineering at UNSW, I guide students through individual and group engineering tasks, deliver live problem-solving demonstrations, and respond to technical and non-technical questions on course forums. ✍️
 
 ### Developed Projects
-- [Cover Letter Builder](https://cover-letter-builder-2pc6.vercel.app/) &#8594; I created a AI cover letter builder to aid in the job application process while expanding my knowledge on how to effectively use LLMs.
+- [Cover Letter Builder](https://cover-letter-builder-2pc6.vercel.app/) &#8594; I created a AI cover letter builder to aid in the job application process while expanding my knowledge on how to effectively use LLMs. 🪄
 - [Park Pilot](https://github.com/nathansivalingam/park-pilot) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚙
 - [Engineering Portfolio](https://engineering-portfolio-website.vercel.app/) &#8594; I developed an engineering portfolio in the form of a website for both my computer science and mechanical engineering projects to aid in the internship application process. 💻
 - [Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot) &#8594; I worked in a team to create an automated robot capable of moving via registered hand movements. 🦾
