@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I am a casual academic and final-year student studying Computer Science and Mechanical Engineering at **UNSW Sydney**. Most of my recent contributions relate to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c/blob/main/z5359644_thesis_c.pdf?raw=true), where I am investigated the use of vortex generators as a method of cooling photovoltaic modules. 🌱
+I am a casual academic and final-year student studying Computer Science and Mechanical Engineering at **UNSW Sydney**. Most of my recent contributions relate to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c/blob/main/z5359644_thesis_c.pdf?raw=true), where I investigated the use of vortex generators as a method of cooling photovoltaic modules. 🌱
 
 ### Developing Projects
 - As a Research Assistant, I develop models for augmented reality applications aimed at enhancing the teaching of mechanical design concepts to university students. 🌏
