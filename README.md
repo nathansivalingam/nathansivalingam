@@ -1,12 +1,9 @@
-## Hey there 👋
+## Hey there :) 
 
-I am a casual academic and final-year student studying Computer Science and Mechanical Engineering at **UNSW Sydney**. Most of my recent contributions relate to my [thesis project](https://github.com/nathansivalingam/mechanical-engineering-thesis-c/blob/main/z5359644_thesis_c.pdf?raw=true), where I investigated the use of vortex generators as a method of cooling photovoltaic modules. 🌱
-
-### Developing Projects
-- As a Research Assistant, I develop models for augmented reality applications aimed at enhancing the teaching of mechanical design concepts to university students. 🌏
-- As an Academic Demonstrator for the School of Mechanical and Manufacturing Engineering at UNSW, I guide students through individual and group engineering tasks, deliver live problem-solving demonstrations, and respond to technical and non-technical questions on course forums. ✍️
+I am a casual academic and final-year student studying Computer Science and Mechanical Engineering at **UNSW Sydney**. I am currently working full time as an Acoustic Engineer, where I occasionally develop in-house software tools to automate workflows, reduce costs, and provide additional value to the existing services we offer clients.
 
 ### Developed Projects
+- **[Paywalled due to its inclusion as part of a course]** I developed 3D models for augmented reality applications aimed at enhancing the teaching of mechanical design concepts to university students. 🌏
 - [AI Cover Letter Builder](https://cover-letter-builder-2pc6.vercel.app/) &#8594; I created a AI cover letter builder to aid in the job application process while expanding my knowledge on how to effectively use LLMs. 🪄
 - [Park Pilot](https://github.com/nathansivalingam/park-pilot) &#8594; I worked in a team to develop a smart vehicle parking management system as part of my final computer science project at UNSW. 🚙
 - [Engineering Portfolio](https://engineering-portfolio-website.vercel.app/) &#8594; I developed an engineering portfolio in the form of a website for both my computer science and mechanical engineering projects to aid in the internship application process. 💻
