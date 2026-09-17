@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hi, I'm Nathan
 
 I am a final year Computer Science and Mechanical Engineering student from **UNSW Sydney**, currently working full time as an Acoustic Engineer. Alongside my engineering work, I occasionally develop in-house software tools to automate workflows, reduce costs, and improve the services we provide to clients.
 
@@ -15,9 +15,8 @@ I am a final year Computer Science and Mechanical Engineering student from **UNS
 * **[Hand Gesture Robot](https://github.com/nathansivalingam/hand-gesture-robot)** 🦾 → Worked in a team to develop an automated robot capable of responding to registered hand gestures for movement control.
 
 ### More About Me
-
-📄 **[Resume](https://github.com/nathansivalingam/engineering-portfolio-website/blob/main/public/assets/nathan_sivalingam_cv.pdf?raw=true)**
-💼 **[LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227)**
+* **[Resume](https://github.com/nathansivalingam/engineering-portfolio-website/blob/main/public/assets/nathan_sivalingam_cv.pdf?raw=true)**
+* **[LinkedIn](https://au.linkedin.com/in/nathan-sivalingam-4185b0227)**
 
 <!--
 **nathansivalingam/nathansivalingam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
